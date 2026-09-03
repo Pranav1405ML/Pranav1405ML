@@ -270,17 +270,6 @@ Instruction Fetch → Decode → Execute → Memory → Write Back (cycle-accura
 </td></tr>
 </table>
 
-<br>
-
-```
-                         target: layer 0x00
-                              ↑
-                        going deeper
-```
-
-</div>
-
-<br>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                     TROPHIES & GRAPHS                         -->
@@ -325,13 +314,15 @@ Instruction Fetch → Decode → Execute → Memory → Write Back (cycle-accura
 
 <br>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Pranav1405ML&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00e5ff&icon_color=38bdf8&text_color=c9d1d9&ring_color=00e5ff" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Pranav1405ML&theme=github_dark" width="32%" />
 &nbsp;
-<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranav1405ML&layout=compact&hide_border=true&bg_color=0d1117&title_color=00e5ff&text_color=c9d1d9&langs_count=6" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pranav1405ML&theme=github_dark" width="32%" />
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Pranav1405ML&theme=github_dark&utcOffset=5.5" width="32%" />
 
 <br><br>
 
-<img width="52%" src="https://streak-stats.demolab.com/?user=Pranav1405ML&theme=dark&hide_border=true" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pranav1405ML&theme=github_dark" width="90%" />
 
 </div>
 
