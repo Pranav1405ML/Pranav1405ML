@@ -331,7 +331,7 @@ Instruction Fetch → Decode → Execute → Memory → Write Back (cycle-accura
 
 <br><br>
 
-<img width="52%" src="https://streak-stats.demolab.com/?user=Pranav1405ML&hide_border=true&background=0d1117&stroke=172a45&ring=00e5ff&fire=00e5ff&currStreakLabel=00e5ff&sideLabels=38bdf8&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=6e7681" />
+<img width="52%" src="https://streak-stats.demolab.com/?user=Pranav1405ML&theme=dark&hide_border=true" />
 
 </div>
 
