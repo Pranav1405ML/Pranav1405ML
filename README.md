@@ -248,7 +248,7 @@ Instruction Fetch → Decode → Execute → Memory → Write Back (cycle-accura
 ## 🗺 Depth Map
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=13&duration=2000&pause=500&color=00E5FF&center=true&vCenter=true&repeat=true&width=420&lines=%5Bscan%5D+mapping+knowledge+depth...;%5Bscan%5D+layer+0x07+→+application;%5Bscan%5D+layer+0x06+→+backend;%5Bscan%5D+layer+0x05+→+ai+systems;%5Bscan%5D+layer+0x04+→+databases;%5Bscan%5D+layer+0x03+→+operating+systems;%5Bscan%5D+layer+0x02+→+architecture;%5Bscan%5D+layer+0x01+→+distributed;%5Bscan%5D+layer+0x00+→+research;%5Bdone%5D+target:+layer+0x00" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=13&duration=2000&pause=500&color=00E5FF&center=true&vCenter=true&repeat=true&width=420&lines=%5Bscan%5D+mapping+knowledge+depth...;%5Bscan%5D+layer+0x07+%E2%86%92+application;%5Bscan%5D+layer+0x06+%E2%86%92+backend;%5Bscan%5D+layer+0x05+%E2%86%92+ai+systems;%5Bscan%5D+layer+0x04+%E2%86%92+databases;%5Bscan%5D+layer+0x03+%E2%86%92+operating+systems;%5Bscan%5D+layer+0x02+%E2%86%92+architecture;%5Bscan%5D+layer+0x01+%E2%86%92+distributed;%5Bscan%5D+layer+0x00+%E2%86%92+research;%5Bdone%5D+target:+layer+0x00" alt="Typing SVG" />
 </a>
 
 <br><br>
@@ -292,12 +292,15 @@ Instruction Fetch → Decode → Execute → Memory → Write Back (cycle-accura
 
 <br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Pranav1405ML&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=6" width="90%" />
+<!-- Profile Details Card -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pranav1405ML&theme=github_dark" width="90%" />
 
 <br><br>
 
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pranav1405ML&bg_color=0d1117&color=00e5ff&line=38bdf8&point=00e5ff&area=true&area_color=172a45&hide_border=true&custom_title=Contribution%20Activity" width="95%" />
+<!-- Stats + Languages side by side -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Pranav1405ML&theme=github_dark" width="44%" />
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Pranav1405ML&theme=github_dark&utcOffset=5.5" width="44%" />
 
 <br><br>
 
@@ -328,7 +331,7 @@ Instruction Fetch → Decode → Execute → Memory → Write Back (cycle-accura
 
 <br><br>
 
-<img width="52%" src="https://github-readme-streak-stats.herokuapp.com/?user=Pranav1405ML&hide_border=true&background=0d1117&stroke=172a45&ring=00e5ff&fire=00e5ff&currStreakLabel=00e5ff&sideLabels=38bdf8&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=6e7681" />
+<img width="52%" src="https://streak-stats.demolab.com/?user=Pranav1405ML&hide_border=true&background=0d1117&stroke=172a45&ring=00e5ff&fire=00e5ff&currStreakLabel=00e5ff&sideLabels=38bdf8&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=6e7681" />
 
 </div>
 
