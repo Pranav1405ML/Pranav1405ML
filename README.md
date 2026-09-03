@@ -2,7 +2,7 @@
 <!--                        HEADER / HERO                         -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:0a192f,50:172a45,75:0a192f,100:0d1117&height=220&section=header&text=PRANAV&fontSize=72&fontColor=00e5ff&fontAlignY=35&desc=systems%20·%20backend%20·%20ai%20engineering&descSize=16&descColor=38bdf8&descAlignY=55&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:0a192f,50:172a45,75:0a192f,100:0d1117&height=220&section=header&text=PRANAV&fontSize=72&fontColor=00e5ff&fontAlignY=35&desc=Systems%20·%20Backend%20·%20AI%20Engineering&descSize=16&descColor=38bdf8&descAlignY=55&animation=fadeIn" />
 
 <div align="center">
 
